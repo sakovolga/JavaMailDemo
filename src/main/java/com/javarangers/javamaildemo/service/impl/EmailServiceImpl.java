@@ -3,7 +3,6 @@ package com.javarangers.javamaildemo.service.impl;
 import com.javarangers.javamaildemo.entity.Mail;
 import com.javarangers.javamaildemo.service.EmailService;
 import jakarta.mail.MessagingException;
-import jakarta.mail.internet.AddressException;
 import jakarta.mail.internet.InternetAddress;
 import jakarta.mail.internet.MimeMessage;
 import org.springframework.core.io.ClassPathResource;
