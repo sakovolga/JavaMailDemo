@@ -21,4 +21,4 @@ The project implements the following email sending methods:
 
 ## Do you need an explanation?
 
-I tell how it works on the channel JavaRangers
+I tell how it works on the channel [JavaRangers](https://www.youtube.com/watch?v=V4JScQLRXkg&t=149s)
